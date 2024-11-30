@@ -1,0 +1,23 @@
+.keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .key {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.25rem;
+  }
+  
+  .key:hover {
+    background: #0056b3;
+  }
+
