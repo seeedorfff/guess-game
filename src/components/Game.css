@@ -32,8 +32,8 @@
   .start-button {
     padding: 10px 20px;
     font-size: 1.2rem;
-    background-color: #4caf50;
-    color: white;
+    background-color: #d5d9d6;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -41,11 +41,11 @@
   }
   
   .start-button:hover {
-    background-color: #45a049;
+    background-color: #7d7d7d;
   }
   
   .start-button:active {
-    background-color: #3e8e41;
+    background-color: #b8bab8;
   }
 
 /* popup */
@@ -80,15 +80,15 @@
     margin-top: 15px;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #4caf50;
-    color: white;
+    background-color: #d5d9d6;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   
   .popup-content button:hover {
-    background-color: #45a049;
+    background-color: #707070;
   }
   
   @keyframes fadeIn {
